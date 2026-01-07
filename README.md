@@ -23,7 +23,7 @@
 
 ## 🌐 Live Demo
 
-[Play Template Live](https://play-template.netlify.app)
+[Play Template Live](https://Abdullah-Alamodi99.github.io/play-template)
 
 ## Author
 Abdullah Mohammed Abdullah Alamoudi
